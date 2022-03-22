@@ -14,7 +14,7 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "coverage", "docs"],
   "typedocOptions": {
-    "entryPoints": ["src/index.js"],
+    "entryPoints": ["src/nChange.js", "src/sortedSquared.js"],
     "out": "docs",
     "internalNamespace": "types"
   }
